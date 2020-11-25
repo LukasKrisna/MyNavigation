@@ -8,7 +8,7 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.failanrahsya.mynavigation.HomeFragment"
+        android:name="com.lukaskrisna.mynavigation.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home">
         <action
@@ -28,7 +28,7 @@
 
     <fragment
         android:id="@+id/categoryFragment"
-        android:name="com.failanrahsya.mynavigation.CategoryFragment"
+        android:name="com.lukaskrisna.mynavigation.CategoryFragment"
         android:label="fragment_category"
         tools:layout="@layout/fragment_category" >
         <action
@@ -37,7 +37,7 @@
     </fragment>
     <activity
         android:id="@+id/profileActivity"
-        android:name="com.failanrahsya.mynavigation.ProfileActivity"
+        android:name="com.lukaskrisna.mynavigation.ProfileActivity"
         android:label="activity_profile"
         tools:layout="@layout/activity_profile">
         <deepLink
@@ -46,7 +46,7 @@
     </activity>
     <fragment
         android:id="@+id/detailCategoryFragment"
-        android:name="com.failanrahsya.mynavigation.DetailCategoryFragment"
+        android:name="com.lukaskrisna.mynavigation.DetailCategoryFragment"
         android:label="fragment_detail_category"
         tools:layout="@layout/fragment_detail_category">
         <argument

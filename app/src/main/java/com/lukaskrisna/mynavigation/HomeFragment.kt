@@ -1,4 +1,4 @@
-package com.failanrahsya.mynavigation
+package com.lukaskrisna.mynavigation
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

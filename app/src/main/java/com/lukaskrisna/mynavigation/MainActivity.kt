@@ -1,4 +1,4 @@
-package com.failanrahsya.mynavigation
+package com.lukaskrisna.mynavigation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
